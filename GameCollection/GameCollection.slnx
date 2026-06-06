@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="GameCollection.Client/GameCollection.Client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="GameCollection.Server/GameCollection.Server.csproj" />
+</Solution>

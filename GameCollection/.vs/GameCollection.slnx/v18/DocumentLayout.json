@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\src\\views\\gamesdetail.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\src\\views\\gamesdetail.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\src\\types\\games.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\src\\types\\games.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\domain\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\domain\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\viewmodel\\gameupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\viewmodel\\gameupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\migrations\\20260605222430_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\migrations\\20260605222430_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\viewmodel\\gamecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\viewmodel\\gamecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\migrations\\gamecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\migrations\\gamecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\viewmodel\\gamelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\viewmodel\\gamelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\viewmodel\\gamedetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\viewmodel\\gamedetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\src\\views\\gameslist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\src\\views\\gameslist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\src\\views\\gamesedit.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\src\\views\\gamesedit.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\src\\views\\gamesdelete.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\src\\views\\gamesdelete.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\src\\views\\gamescreate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\src\\views\\gamescreate.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\migrations\\20260605222430_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\migrations\\20260605222430_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B4C595-8CCF-650D-77C0-54925FAAC7C3}|GameCollection.Client\\GameCollection.Client.esproj|solutionrelative:gamecollection.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|c:\\users\\admin\\documents\\github\\fullstack_crud_rakendus\\gamecollection\\gamecollection.server\\gamecollection.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71CBE295-970A-1FD8-E6F1-1763240C8002}|GameCollection.Server\\GameCollection.Server.csproj|solutionrelative:gamecollection.server\\gamecollection.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\README.md",
+              "RelativeDocumentMoniker": "gamecollection.client\\README.md",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\README.md",
+              "RelativeToolTip": "gamecollection.client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-06T19:48:19.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "games.ts",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\types\\games.ts",
+              "RelativeDocumentMoniker": "gamecollection.client\\src\\types\\games.ts",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\types\\games.ts",
+              "RelativeToolTip": "gamecollection.client\\src\\types\\games.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-06T19:43:32.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Domain\\Game.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\Domain\\Game.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Domain\\Game.cs",
+              "RelativeToolTip": "GameCollection.Server\\Domain\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:45:10.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260605222430_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Migrations\\20260605222430_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\Migrations\\20260605222430_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Migrations\\20260605222430_InitialCreate.cs",
+              "RelativeToolTip": "GameCollection.Server\\Migrations\\20260605222430_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T22:24:31.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\ViewModel\\GameUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\ViewModel\\GameUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\ViewModel\\GameUpdateViewModel.cs",
+              "RelativeToolTip": "GameCollection.Server\\ViewModel\\GameUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:49:34.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "GameCollection.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\appsettings.json",
+              "RelativeToolTip": "GameCollection.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T22:11:45.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "gamecollection.client\\vite.config.ts",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\vite.config.ts",
+              "RelativeToolTip": "gamecollection.client\\vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-06T08:16:20.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GameCollection.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GameCollection.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-06T08:22:40.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Program.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Program.cs",
+              "RelativeToolTip": "GameCollection.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T22:06:18.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesDetail.tsx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesDetail.tsx",
+              "RelativeDocumentMoniker": "gamecollection.client\\src\\views\\GamesDetail.tsx",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesDetail.tsx",
+              "RelativeToolTip": "gamecollection.client\\src\\views\\GamesDetail.tsx",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwHgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-05T22:44:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\ViewModel\\GameCreateViewModel.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\ViewModel\\GameCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\ViewModel\\GameCreateViewModel.cs",
+              "RelativeToolTip": "GameCollection.Server\\ViewModel\\GameCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:48:07.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Migrations\\GameContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\Migrations\\GameContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Migrations\\GameContextModelSnapshot.cs",
+              "RelativeToolTip": "GameCollection.Server\\Migrations\\GameContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:34:58.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "gamecollection.client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\main.tsx",
+              "RelativeToolTip": "gamecollection.client\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-06T18:45:34.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\index.css",
+              "RelativeDocumentMoniker": "gamecollection.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\index.css",
+              "RelativeToolTip": "gamecollection.client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T22:52:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\ViewModel\\GameListViewModel.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\ViewModel\\GameListViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\ViewModel\\GameListViewModel.cs",
+              "RelativeToolTip": "GameCollection.Server\\ViewModel\\GameListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:49:50.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\ViewModel\\GameDetailViewModel.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\ViewModel\\GameDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\ViewModel\\GameDetailViewModel.cs",
+              "RelativeToolTip": "GameCollection.Server\\ViewModel\\GameDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:50:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Data\\GameContext.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\Data\\GameContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Data\\GameContext.cs",
+              "RelativeToolTip": "GameCollection.Server\\Data\\GameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:10:11.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GamesList.tsx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesList.tsx",
+              "RelativeDocumentMoniker": "gamecollection.client\\src\\views\\GamesList.tsx",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesList.tsx",
+              "RelativeToolTip": "gamecollection.client\\src\\views\\GamesList.tsx",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAQwIQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-06T16:15:18.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GamesEdit.tsx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesEdit.tsx",
+              "RelativeDocumentMoniker": "gamecollection.client\\src\\views\\GamesEdit.tsx",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesEdit.tsx",
+              "RelativeToolTip": "gamecollection.client\\src\\views\\GamesEdit.tsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAMEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-05T22:43:53.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GamesDelete.tsx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesDelete.tsx",
+              "RelativeDocumentMoniker": "gamecollection.client\\src\\views\\GamesDelete.tsx",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesDelete.tsx",
+              "RelativeToolTip": "gamecollection.client\\src\\views\\GamesDelete.tsx",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwJoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-05T22:47:04.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GamesCreate.tsx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesCreate.tsx",
+              "RelativeDocumentMoniker": "gamecollection.client\\src\\views\\GamesCreate.tsx",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\views\\GamesCreate.tsx",
+              "RelativeToolTip": "gamecollection.client\\src\\views\\GamesCreate.tsx",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-05T22:48:13.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "gamecollection.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\src\\App.tsx",
+              "RelativeToolTip": "gamecollection.client\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-05T22:33:58.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "GameCollection.Server\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T22:10:27.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260605222430_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Migrations\\20260605222430_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "GameCollection.Server\\Migrations\\20260605222430_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\Migrations\\20260605222430_InitialCreate.Designer.cs",
+              "RelativeToolTip": "GameCollection.Server\\Migrations\\20260605222430_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:34:36.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "gamecollection.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\gamecollection.client\\.vscode\\launch.json",
+              "RelativeToolTip": "gamecollection.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-06T09:53:00.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GameCollection.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\GameCollection.Server.csproj",
+              "RelativeDocumentMoniker": "GameCollection.Server\\GameCollection.Server.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\FullStack_CRUD_Rakendus\\GameCollection\\GameCollection.Server\\GameCollection.Server.csproj",
+              "RelativeToolTip": "GameCollection.Server\\GameCollection.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-05T21:43:39.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
